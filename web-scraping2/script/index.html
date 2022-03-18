@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>List HBO series</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="../../css/style.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+</head>
+<body class="container-fluid">
+    <header>
+        <div class="container mb-5">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="colorlib-navbar-brand">
+                        <a class="colorlib-logo" href="../../index.html"><span>Salsa</span><span>bila</span></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <h1 class="text-center fw-bold mt-5 mb-2">Top 100 HBO Series</h1>
+    <h6 class="text-center text-muted">by heiseenberg</h6>
+    <div id="listjson"></div>
+    <img src="" alt="">
+    <script>
+        $(function(){
+            $.get('../scrapHBO.json', function(obj){
+                var str = "<table class='table table-striped table-hover'>";
+                str += "<thead><tr><th>No</th><th>Poster</th><th>Judul</th><th>Tahun</th><th>Genre</th><th>Durasi</th><th>Rating</th><th>Waktu Scraping</th></tr></thead>";
+
+                $.each(obj, function(n, data){
+                    str += "<tr><td>"+data.no+"</td>";
+                    str += "<td><img src='"+data.image+"' width='90' alt='poster "+data.judul+"'</td>";
+                    str += "<td>"+data.judul+"</td>";
+                    str += "<td>"+data.tahun+"</td>";
+                    str += "<td>"+data.genre+"</td>";
+                    str += "<td>"+data.durasi+"</td>";
+                    str += "<td>"+data.rating+"</td>";
+                    str += "<td>"+data.waktu_scrap+"</td></tr>";
+                });
+
+                str += "</table>";
+                $('#listjson').html(str);
+            });
+        });
+    </script>
+</body>
+</html>

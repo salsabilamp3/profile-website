@@ -1,0 +1,1002 @@
+[
+      {
+            "no": 1,
+            "judul": "Chernobyl",
+            "tahun": "(2019)",
+            "durasi": "330 min",
+            "genre": "Drama, History, Thriller",
+            "rating": "9.4",
+            "image": "https://m.media-amazon.com/images/M/MV5BZGQ2YmMxZmEtYjI5OS00NzlkLTlkNTEtYWMyMzkyMzc2MDU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX140_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 2,
+            "judul": "Band of Brothers",
+            "tahun": "(2001)",
+            "durasi": "594 min",
+            "genre": "Drama, History, War",
+            "rating": "9.4",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3._V1_UX140_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 3,
+            "judul": "Game of Thrones",
+            "tahun": "(2011\u2013 )",
+            "durasi": "57 min",
+            "genre": "Action, Adventure, Drama",
+            "rating": "9.3",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UY209_CR7,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 4,
+            "judul": "The Wire",
+            "tahun": "(2002\u20132008)",
+            "durasi": "59 min",
+            "genre": "Crime, Drama, Thriller",
+            "rating": "9.3",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTllYzFhMjAtZjExNS00MjM4LWE5YmMtOGFiZGRlOTU5YzJiXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UX140_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 5,
+            "judul": "The Sopranos",
+            "tahun": "(1999\u20132007)",
+            "durasi": "55 min",
+            "genre": "Crime, Drama",
+            "rating": "9.2",
+            "image": "https://m.media-amazon.com/images/M/MV5BZGJjYzhjYTYtMDBjYy00OWU1LTg5OTYtNmYwOTZmZjE3ZDdhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY209_CR3,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 6,
+            "judul": "True Detective",
+            "tahun": "(2014\u20132019)",
+            "durasi": "55 min",
+            "genre": "Crime, Drama, Mystery",
+            "rating": "8.9",
+            "image": "https://m.media-amazon.com/images/M/MV5BMmRlYmE0Y2UtNDk2Yi00NzczLWEwZTEtZmE2OTcyYzcxYmU5XkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1_UY209_CR4,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 7,
+            "judul": "Last Week Tonight with John Oliver",
+            "tahun": "(2014\u2013 )",
+            "durasi": "30 min",
+            "genre": "Comedy, History, News",
+            "rating": "8.9",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDk4OTBkMGUtZWI3NC00M2Y0LWJjNjAtZmVjMGNiNDMyMmViXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 8,
+            "judul": "Rome",
+            "tahun": "(2005\u20132007)",
+            "durasi": "52 min",
+            "genre": "Action, Drama, History",
+            "rating": "8.7",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTM4MmU1NWYtNzJjYy00YWFhLThjOGEtZmMxOGI1NzE0NGNiXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UX140_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 9,
+            "judul": "Six Feet Under",
+            "tahun": "(2001\u20132005)",
+            "durasi": "60 min",
+            "genre": "Comedy, Drama",
+            "rating": "8.8",
+            "image": "https://m.media-amazon.com/images/M/MV5BN2FmMjg0Y2YtYmMyYi00MTBjLTllYzMtN2VjYzRhOTVmNWRlXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UY209_CR3,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 10,
+            "judul": "Curb Your Enthusiasm",
+            "tahun": "(2000\u2013 )",
+            "durasi": "28 min",
+            "genre": "Comedy",
+            "rating": "8.8",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzE3ZDA4OWItOGY2ZC00MzVmLTk0Y2QtNzEzMjc5YWI5ZWFiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 11,
+            "judul": "Oz",
+            "tahun": "(1997\u20132003)",
+            "durasi": "55 min",
+            "genre": "Crime, Drama, Thriller",
+            "rating": "8.7",
+            "image": "https://m.media-amazon.com/images/M/MV5BYjY3N2M2YjgtZTFjZS00ODA1LWJjMDgtNDgxZDllZWFiMmYyXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UX140_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 12,
+            "judul": "The Jinx: The Life and Deaths of Robert Durst",
+            "tahun": "(2015)",
+            "durasi": "279 min",
+            "genre": "Documentary, Crime, Mystery",
+            "rating": "8.6",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjI0OTc3MzY5Ml5BMl5BanBnXkFtZTgwNjk3MDUyNDE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 13,
+            "judul": "Westworld",
+            "tahun": "(2016\u2013 )",
+            "durasi": "62 min",
+            "genre": "Drama, Mystery, Sci-Fi",
+            "rating": "8.6",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTRmYzNmOTctZjMwOS00ODZlLWJiZGQtNDg5NDY5NjE3MTczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 14,
+            "judul": "The Newsroom",
+            "tahun": "(2012\u20132014)",
+            "durasi": "55 min",
+            "genre": "Drama",
+            "rating": "8.6",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDI0OWIwMTgtZGIyOC00ODRhLWIwNjAtOWViZmMwOWYwOGViXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 15,
+            "judul": "Deadwood",
+            "tahun": "(2004\u20132006)",
+            "durasi": "55 min",
+            "genre": "Crime, Drama, History",
+            "rating": "8.6",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDJhMjUzMDYtNzc4MS00Nzk2LTkyMGQtN2M5NTczYTZmYmY5XkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_UY209_CR1,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 16,
+            "judul": "Succession",
+            "tahun": "(2018\u2013 )",
+            "durasi": "60 min",
+            "genre": "Drama",
+            "rating": "8.8",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDE0ODVlYjktNjJiMC00ODk4LWIwNTktMWRhZmZiOGFhYmUwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR13,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 17,
+            "judul": "From the Earth to the Moon",
+            "tahun": "(1998)",
+            "durasi": "60 min",
+            "genre": "Action, Drama, History",
+            "rating": "8.6",
+            "image": "https://m.media-amazon.com/images/M/MV5BOWIzMjU1OTQtY2QwNC00YTUwLTg2NmUtYzg2ZDQ3YTkzNzA4XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UX140_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 18,
+            "judul": "My Brilliant Friend",
+            "tahun": "(2018\u2013 )",
+            "durasi": "60 min",
+            "genre": "Drama",
+            "rating": "8.6",
+            "image": "https://m.media-amazon.com/images/M/MV5BODU3Nzg5NGMtOTE2MS00YWQ0LTgyYzktMWM3YjNmYjlmZTliXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 19,
+            "judul": "Boardwalk Empire",
+            "tahun": "(2010\u20132014)",
+            "durasi": "55 min",
+            "genre": "Crime, Drama, History",
+            "rating": "8.6",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTYxNzc5ZmYtODcyNi00ZWUwLWExNWUtY2Y0YTlhZDBlMGU1XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UY209_CR2,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 20,
+            "judul": "Big Little Lies",
+            "tahun": "(2017\u20132019)",
+            "durasi": "60 min",
+            "genre": "Crime, Drama, Mystery",
+            "rating": "8.5",
+            "image": "https://m.media-amazon.com/images/M/MV5BZmNjYzdjN2ItOTBlNy00Mjc0LWE4YmMtYTQ4ZjQzNTMyNDc4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 21,
+            "judul": "Silicon Valley",
+            "tahun": "(2014\u20132019)",
+            "durasi": "28 min",
+            "genre": "Comedy",
+            "rating": "8.5",
+            "image": "https://m.media-amazon.com/images/M/MV5BM2Q5YjNjZWMtYThmYy00N2ZjLWE2NDctNmZjMmZjYWE2NjEwXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_UY209_CR3,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 22,
+            "judul": "The Night Of",
+            "tahun": "(2016)",
+            "durasi": "525 min",
+            "genre": "Crime, Drama, Mystery",
+            "rating": "8.5",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjQyOTgxMDI0Nl5BMl5BanBnXkFtZTgwOTE4MzczOTE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 23,
+            "judul": "Flight of the Conchords",
+            "tahun": "(2007\u20132009)",
+            "durasi": "28 min",
+            "genre": "Comedy, Music, Musical",
+            "rating": "8.6",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTM4M2VhY2UtZTJmMi00YmFjLTk4OWItMzU2ZDA3NTUxZjYxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY209_CR3,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 24,
+            "judul": "Generation Kill",
+            "tahun": "(2008)",
+            "durasi": "70 min",
+            "genre": "Drama, War",
+            "rating": "8.5",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTM2NjAxOTQzNl5BMl5BanBnXkFtZTcwMjk4NzU3MQ@@._V1_UY209_CR7,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 25,
+            "judul": "John Adams",
+            "tahun": "(2008)",
+            "durasi": "71 min",
+            "genre": "Biography, Drama, History",
+            "rating": "8.5",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQwNDc0MDE2MF5BMl5BanBnXkFtZTcwODYwNjE2MQ@@._V1_UY209_CR8,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 26,
+            "judul": "The Defiant Ones",
+            "tahun": "(2017)",
+            "durasi": "60 min",
+            "genre": "Documentary, Biography, Crime",
+            "rating": "8.5",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjAyMjg0MTMtZmUxZC00MzhiLTk1YzYtOGE4YWNmYmIzMjc4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 27,
+            "judul": "Entourage",
+            "tahun": "(2004\u20132011)",
+            "durasi": "28 min",
+            "genre": "Comedy, Drama",
+            "rating": "8.5",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDg3ZDc2MDQtNzQwZi00YzFjLTgyOTMtMDMzZTc5N2VlNTg2XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY209_CR7,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 28,
+            "judul": "Euphoria",
+            "tahun": "(2019\u2013 )",
+            "durasi": "55 min",
+            "genre": "Drama",
+            "rating": "8.5",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDMzZDkyNzEtYTY5Ni00NzlhLWI4MzUtY2UzNjNmMjI1YzIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 29,
+            "judul": "Carniv\u00e0le",
+            "tahun": "(2003\u20132005)",
+            "durasi": "55 min",
+            "genre": "Drama, Fantasy, Mystery",
+            "rating": "8.4",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDU5YTdlNzItZjhhMy00YmRkLWI2MzAtNTU5ZDFiNjFiYmVmXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 30,
+            "judul": "The Young Pope",
+            "tahun": "(2016)",
+            "durasi": "546 min",
+            "genre": "Drama",
+            "rating": "8.3",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjA4ODA2NjAxMV5BMl5BanBnXkFtZTgwMTUzOTA4MDI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 31,
+            "judul": "Summer Heights High",
+            "tahun": "(2007)",
+            "durasi": "30 min",
+            "genre": "Comedy, Drama, Family",
+            "rating": "8.5",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTk2NTZiNzMtZDI4Mi00MTIyLWI2MGMtNjkzZWViODkyMTUwXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UY209_CR8,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 32,
+            "judul": "Mr. Show with Bob and David",
+            "tahun": "(1995\u20131998)",
+            "durasi": "27 min",
+            "genre": "Comedy",
+            "rating": "8.4",
+            "image": "https://m.media-amazon.com/images/M/MV5BZGMwOWMzNmMtNDhiMC00MTNiLTk0N2MtMDlkN2Q3ZGEzMDgyXkEyXkFqcGdeQXVyNzkzMjgwMDY@._V1_UX140_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 33,
+            "judul": "The Larry Sanders Show",
+            "tahun": "(1992\u20131998)",
+            "durasi": "30 min",
+            "genre": "Comedy",
+            "rating": "8.5",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTMzMjc2Mzk5OF5BMl5BanBnXkFtZTYwMDAwMjY2._V1_UY209_CR4,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 34,
+            "judul": "The Pacific",
+            "tahun": "(2010)",
+            "durasi": "530 min",
+            "genre": "Action, Adventure, Drama",
+            "rating": "8.3",
+            "image": "https://m.media-amazon.com/images/M/MV5BNmEwNmI1MjItNjNjYy00NDE5LWJiNTYtM2QxMTI5ZjllZTBhL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY209_CR1,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 35,
+            "judul": "The Leftovers",
+            "tahun": "(2014\u20132017)",
+            "durasi": "60 min",
+            "genre": "Drama, Fantasy, Mystery",
+            "rating": "8.4",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTE3MDc1MjY4NV5BMl5BanBnXkFtZTgwMDg4MjQ4MTE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 36,
+            "judul": "Extras",
+            "tahun": "(2005\u20132007)",
+            "durasi": "30 min",
+            "genre": "Comedy, Drama",
+            "rating": "8.3",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDdlMzFmNTAtN2IzNi00NGIxLWFkNGUtZGU1NTJiNGEwYTg5XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY209_CR3,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 37,
+            "judul": "Barry",
+            "tahun": "(2018\u2013 )",
+            "durasi": "30 min",
+            "genre": "Action, Comedy, Crime",
+            "rating": "8.3",
+            "image": "https://m.media-amazon.com/images/M/MV5BMmY1NTk5N2QtYWQyOS00NjhiLWFhZmYtYWZmZGFlMjEzY2E2XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX140_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 38,
+            "judul": "Veep",
+            "tahun": "(2012\u20132019)",
+            "durasi": "28 min",
+            "genre": "Comedy",
+            "rating": "8.4",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjE2NDM0OTEwMl5BMl5BanBnXkFtZTgwNzgwNDI0ODE@._V1_UY209_CR1,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 39,
+            "judul": "Years and Years",
+            "tahun": "(2019)",
+            "durasi": "60 min",
+            "genre": "Drama, Sci-Fi",
+            "rating": "8.3",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTk2YWM0NGMtNzg0MS00MDBkLThmMDYtYjdhMWZjMjgyZDc4XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_UY209_CR8,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 40,
+            "judul": "Olive Kitteridge",
+            "tahun": "(2014)",
+            "durasi": "239 min",
+            "genre": "Drama",
+            "rating": "8.3",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDNlNTYxMjUtYzNjZC00Mzk4LWFmMTYtMmRhMDViZWJjNmRlXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 41,
+            "judul": "The Ricky Gervais Show",
+            "tahun": "(2010\u20132012)",
+            "durasi": "30 min",
+            "genre": "Animation, Comedy, Talk-Show",
+            "rating": "8.4",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTcxMjYyY2EtNGYzZi00N2UzLWE3ZWUtNjQ0M2ViN2ZmYmZlXkEyXkFqcGdeQXVyNDA5NTgxNjU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 42,
+            "judul": "In Treatment",
+            "tahun": "(2008\u20132021)",
+            "durasi": "30 min",
+            "genre": "Drama",
+            "rating": "8.3",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTAxOTEzMWMtOWMyZi00NDBjLWFlZTktMTNkZDI0OWZiNWE4XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 43,
+            "judul": "The Kids in the Hall",
+            "tahun": "(1988\u20132021)",
+            "durasi": "25 min",
+            "genre": "Comedy",
+            "rating": "8.4",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTI2MDY0NzI4NV5BMl5BanBnXkFtZTcwNzUyMzEzMQ@@._V1_UY209_CR4,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 44,
+            "judul": "Eastbound & Down",
+            "tahun": "(2009\u20132013)",
+            "durasi": "28 min",
+            "genre": "Comedy, Drama, Sport",
+            "rating": "8.3",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjAwNDU2NTM4Nl5BMl5BanBnXkFtZTcwMzg0NTc4Mw@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 45,
+            "judul": "Angels in America",
+            "tahun": "(2003)",
+            "durasi": "352 min",
+            "genre": "Drama, Fantasy, Romance",
+            "rating": "8.1",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjJlM2RhNTgtYTQxMy00ZmJkLWIxNDQtOTQzYjg5Y2Y4YjUwXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_UY209_CR4,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 46,
+            "judul": "Looking",
+            "tahun": "(2014\u20132015)",
+            "durasi": "30 min",
+            "genre": "Comedy, Drama, Romance",
+            "rating": "8.3",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQyOTU1OTM1NF5BMl5BanBnXkFtZTgwMTc3MjMwMTE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 47,
+            "judul": "I Know This Much Is True",
+            "tahun": "(2020)",
+            "durasi": "60 min",
+            "genre": "Drama",
+            "rating": "8.1",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTFlY2NmN2YtYTNjZi00NTA5LTgyZmMtMjI3OGI2NDNhNjI0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 48,
+            "judul": "Treme",
+            "tahun": "(2010\u20132013)",
+            "durasi": "55 min",
+            "genre": "Drama, Music",
+            "rating": "8.3",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjg4ZGZkYjEtYTZhMy00YjU1LTg1MTYtNDlmNTAwYTA0M2NmXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UY209_CR6,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 49,
+            "judul": "Gentleman Jack",
+            "tahun": "(2019\u2013 )",
+            "durasi": "60 min",
+            "genre": "Biography, Drama, History",
+            "rating": "8.3",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzI3ZmI3ZDEtZGRhNC00ZjEzLWI2YzAtNWQxOTkxNzIxMzM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR1,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 50,
+            "judul": "Watchmen",
+            "tahun": "(2019)",
+            "durasi": "527 min",
+            "genre": "Crime, Drama, Mystery",
+            "rating": "8.2",
+            "image": "https://m.media-amazon.com/images/M/MV5BYjhhZDE3NjgtMjkzNC00NzI3LWJhOTItMWQ5ZjljODA5NWNkXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX140_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 51,
+            "judul": "Sharp Objects",
+            "tahun": "(2018)",
+            "durasi": "421 min",
+            "genre": "Crime, Drama, Mystery",
+            "rating": "8.1",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDk2NzY1MGQtYTA2MS00ZDcxLWJiMzYtNWRmMGU3ZjQ0YTFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 52,
+            "judul": "The Deuce",
+            "tahun": "(2017\u20132019)",
+            "durasi": "60 min",
+            "genre": "Drama",
+            "rating": "8.1",
+            "image": "https://m.media-amazon.com/images/M/MV5BOWEyM2U1MjctZTUzYy00MTMyLTkyNTgtNjQxNTc2ODk2OTJkXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX140_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 53,
+            "judul": "I May Destroy You",
+            "tahun": "(2020)",
+            "durasi": "30 min",
+            "genre": "Drama",
+            "rating": "8.1",
+            "image": "https://m.media-amazon.com/images/M/MV5BMmI0Mjc4ZTgtZmU0My00ODliLWE0MzYtYzBiODMxZWJkZmE4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 54,
+            "judul": "The New Pope",
+            "tahun": "(2019\u20132020)",
+            "durasi": "60 min",
+            "genre": "Drama",
+            "rating": "8.1",
+            "image": "https://m.media-amazon.com/images/M/MV5BZGQzZDk2NTgtNTRjMS00MDI0LWIwZWQtNDZjODZhOGI1YzliXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 55,
+            "judul": "Sesame Street",
+            "tahun": "(1969\u2013 )",
+            "durasi": "55 min",
+            "genre": "Animation, Adventure, Comedy",
+            "rating": "8.2",
+            "image": "https://m.media-amazon.com/images/M/MV5BODM4NDI3OTcxN15BMl5BanBnXkFtZTgwNjc3MjIwMTI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 56,
+            "judul": "Todd McFarlane's Spawn",
+            "tahun": "(1997\u20131999)",
+            "durasi": "30 min",
+            "genre": "Animation, Action, Adventure",
+            "rating": "8.1",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTViMzhmMjItMDcwOS00NzYzLWE3MjMtY2M2MWZhMzM1N2E4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY209_CR3,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 57,
+            "judul": "High Maintenance",
+            "tahun": "(2016\u20132020)",
+            "durasi": "30 min",
+            "genre": "Comedy, Drama",
+            "rating": "8.1",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTNiNjdjYmEtYTkwOC00ZWM0LWExOTktMjRmZjg4ZGZmNDJmXkEyXkFqcGdeQXVyMzU0NTM0Njc@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 58,
+            "judul": "The Life & Times of Tim",
+            "tahun": "(2008\u2013 )",
+            "durasi": "900 min",
+            "genre": "Animation, Comedy",
+            "rating": "8.3",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDU1MTYwNmMtM2M2Ni00YTBmLWJjNDMtYWI5ZDFiZmZjMTA0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY209_CR3,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 59,
+            "judul": "Tales from the Crypt",
+            "tahun": "(1989\u20131996)",
+            "durasi": "25 min",
+            "genre": "Comedy, Crime, Fantasy",
+            "rating": "8",
+            "image": "https://m.media-amazon.com/images/M/MV5BM2M3YWRkN2MtZDg5OC00NmRmLTliNzctMTBkZjQzZTlkYmQ0XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 60,
+            "judul": "Vice Principals",
+            "tahun": "(2016\u20132018)",
+            "durasi": "30 min",
+            "genre": "Comedy",
+            "rating": "8",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjQ2MjY0ODI4M15BMl5BanBnXkFtZTgwNTY3MjQyMzI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 61,
+            "judul": "The Righteous Gemstones",
+            "tahun": "(2019\u2013 )",
+            "durasi": "36 min",
+            "genre": "Comedy, Drama",
+            "rating": "8.2",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDViYzhjZjItNjBkYS00NjE5LWI1M2ItODhkZGM2NzI4YzE0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 62,
+            "judul": "Show Me a Hero",
+            "tahun": "(2015)",
+            "durasi": "60 min",
+            "genre": "Drama, History",
+            "rating": "8",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTY2YTdmZTUtNzNlZC00NDZjLTkzYzAtZmJhNTA3NThlYWIxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 63,
+            "judul": "The Comeback",
+            "tahun": "(2005\u20132014)",
+            "durasi": "30 min",
+            "genre": "Comedy",
+            "rating": "8.1",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTUxNDU4MjY3OF5BMl5BanBnXkFtZTgwMDI2OTg5MjE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 64,
+            "judul": "His Dark Materials",
+            "tahun": "(2019\u20132022)",
+            "durasi": "60 min",
+            "genre": "Adventure, Drama, Family",
+            "rating": "7.9",
+            "image": "https://m.media-amazon.com/images/M/MV5BYmI0M2YwZGItZGYxOC00NTc5LTljY2EtYjBjMTE0MDkxNTMwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 65,
+            "judul": "Doom Patrol",
+            "tahun": "(2019\u2013 )",
+            "durasi": "60 min",
+            "genre": "Action, Adventure, Comedy",
+            "rating": "7.9",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWMxZWMxOTktYjU1Yi00ZmQyLTk0NzctYmM0MmU1YmYwZjc5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 66,
+            "judul": "Bored to Death",
+            "tahun": "(2009\u20132011)",
+            "durasi": "28 min",
+            "genre": "Comedy, Crime, Drama",
+            "rating": "7.9",
+            "image": "https://m.media-amazon.com/images/M/MV5BOGU4NWYyZjEtY2Y1ZC00MzIxLTlhM2EtNDcwM2VkZmZhMmFiXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 67,
+            "judul": "Da Ali G Show",
+            "tahun": "(2000\u20132004)",
+            "durasi": "30 min",
+            "genre": "Comedy, Talk-Show",
+            "rating": "8",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDI1MTY5ZWUtMDNiNi00N2VlLWJmZjYtNGFkNTBmY2FjMmQ5XkEyXkFqcGdeQXVyMjMwNjYyMzE@._V1_UY209_CR3,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 68,
+            "judul": "How to Make It in America",
+            "tahun": "(2010\u20132011)",
+            "durasi": "30 min",
+            "genre": "Comedy, Drama",
+            "rating": "7.9",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTU1ZTIyMzYtYjYwYy00NWYyLThmMTgtNzMzYzQwZjRiNGZmXkEyXkFqcGdeQXVyNDA5NTgxNjU@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 69,
+            "judul": "Insecure",
+            "tahun": "(2016\u20132021)",
+            "durasi": "30 min",
+            "genre": "Comedy, Romance",
+            "rating": "8",
+            "image": "https://m.media-amazon.com/images/M/MV5BYmJlZGEyZDctZTA1Yy00MzExLTk0ZWMtMjgwNjAwMGU1ZjRjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR13,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 70,
+            "judul": "Lucky Louie",
+            "tahun": "(2006\u20132007)",
+            "durasi": "30 min",
+            "genre": "Comedy",
+            "rating": "7.9",
+            "image": "https://m.media-amazon.com/images/M/MV5BODQ1ZjU5Y2UtZWQ4Mi00MmUyLWExOTUtMDA0Y2RhNGJhYzg3XkEyXkFqcGdeQXVyNzA4NzQyMjk@._V1_UY209_CR3,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 71,
+            "judul": "Fraggle Songs",
+            "tahun": "(1983\u20131987)",
+            "durasi": "30 min",
+            "genre": "Animation, Adventure, Comedy",
+            "rating": "7.9",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzJlNDVjZDktNTQ1ZC00ZjZjLWI5NjctZjRkZmE5MDQ0OTY4XkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_UX140_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 72,
+            "judul": "True Blood",
+            "tahun": "(2008\u20132014)",
+            "durasi": "55 min",
+            "genre": "Drama, Fantasy, Mystery",
+            "rating": "7.9",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDVjZDQ2N2MtMzMxYy00ZjliLTg5YjAtNjk1OTUwYjVjNWQ0XkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_UX140_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 73,
+            "judul": "The Outsider",
+            "tahun": "(2020)",
+            "durasi": "60 min",
+            "genre": "Crime, Drama, Fantasy",
+            "rating": "7.7",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzgxOTc4ODctNDNhZC00M2UzLTgyYzgtM2Q2OTk3NmQ5NTljXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX140_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 74,
+            "judul": "Vinyl",
+            "tahun": "(2016)",
+            "durasi": "60 min",
+            "genre": "Drama, Music",
+            "rating": "7.8",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTY1Nzc3Mzk2NF5BMl5BanBnXkFtZTgwMjUzNTA1NzE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 75,
+            "judul": "The Brink",
+            "tahun": "(2015)",
+            "durasi": "30 min",
+            "genre": "Comedy",
+            "rating": "7.8",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjQwODkwMjgwMV5BMl5BanBnXkFtZTgwNTA0NjY3NTE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 76,
+            "judul": "Mildred Pierce",
+            "tahun": "(2011)",
+            "durasi": "336 min",
+            "genre": "Drama",
+            "rating": "7.6",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTYxMTI3MDA2NV5BMl5BanBnXkFtZTcwMjkwODU2NA@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 77,
+            "judul": "Raised by Wolves",
+            "tahun": "(2020\u2013 )",
+            "durasi": "No runtime",
+            "genre": "Drama, Fantasy, Sci-Fi",
+            "rating": "7.5",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzk0ZTZlOGItMjQ0MC00YzYyLWIwYjgtMGM4NDdkOTlhYzIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 78,
+            "judul": "Ballers",
+            "tahun": "(2015\u20132019)",
+            "durasi": "30 min",
+            "genre": "Comedy, Drama, Sport",
+            "rating": "7.6",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzM5NDRkNzItN2FkZC00ZjQyLTlmYzctYmNiNTA4YzIxYTg2XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX140_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 79,
+            "judul": "Big Love",
+            "tahun": "(2006\u20132011)",
+            "durasi": "60 min",
+            "genre": "Drama",
+            "rating": "7.7",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTkxMjEzNTE0Ml5BMl5BanBnXkFtZTcwNTM3MDAzNA@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 80,
+            "judul": "Perry Mason",
+            "tahun": "(2020\u2013 )",
+            "durasi": "60 min",
+            "genre": "Crime, Drama",
+            "rating": "7.5",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDllMWRjNWMtM2U3Ny00YjAwLTlhNTgtOThjZTc2YmI2ZmRmXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 81,
+            "judul": "Parade's End",
+            "tahun": "(2012)",
+            "durasi": "287 min",
+            "genre": "Action, Drama, Romance",
+            "rating": "7.5",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTQ0ODI4MTkwNl5BMl5BanBnXkFtZTcwNDUyNDAyOQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 82,
+            "judul": "Little Britain USA",
+            "tahun": "(2008)",
+            "durasi": "30 min",
+            "genre": "Comedy",
+            "rating": "7.6",
+            "image": "https://m.media-amazon.com/images/M/MV5BNWE0YmY2MmQtNzkyZC00Y2EwLTkyMjktN2RiYzAwYWE3NDM3XkEyXkFqcGdeQXVyNjc4NTExMTk@._V1_UY209_CR3,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 83,
+            "judul": "Life's Too Short",
+            "tahun": "(2011\u20132013)",
+            "durasi": "30 min",
+            "genre": "Comedy",
+            "rating": "7.5",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTg5MzA4NDY4Ml5BMl5BanBnXkFtZTcwNjg1ODMzNw@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 84,
+            "judul": "Love Life",
+            "tahun": "(2020\u2013 )",
+            "durasi": "35 min",
+            "genre": "Comedy, Romance",
+            "rating": "7.5",
+            "image": "https://m.media-amazon.com/images/M/MV5BN2Y4ODk2ZTQtMzFjOS00MzlhLWFhN2YtYzBiYmRmNzFhYjY0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 85,
+            "judul": "Togetherness",
+            "tahun": "(2015\u20132016)",
+            "durasi": "30 min",
+            "genre": "Comedy, Drama, Romance",
+            "rating": "7.5",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjEwMjEyMzM2Ml5BMl5BanBnXkFtZTgwNTk2Mjk3NzE@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 86,
+            "judul": "Enlightened",
+            "tahun": "(2011\u20132013)",
+            "durasi": "28 min",
+            "genre": "Comedy, Drama",
+            "rating": "7.6",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTUzNzY3NjA4NF5BMl5BanBnXkFtZTcwNTA5MTY2Ng@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 87,
+            "judul": "Luck",
+            "tahun": "(2011\u20132012)",
+            "durasi": "52 min",
+            "genre": "Drama, Sport",
+            "rating": "7.5",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDUyMDY0N15BMl5BanBnXkFtZTcwOTAyMTUxNw@@._V1_UY209_CR7,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 88,
+            "judul": "The Undoing",
+            "tahun": "(2020)",
+            "durasi": "337 min",
+            "genre": "Crime, Drama, Mystery",
+            "rating": "7.4",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzY5YTcxMWYtYjFkZi00ZmI3LThmYjgtMzY0YjQzZWFkNzQ4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 89,
+            "judul": "Real Time with Bill Maher",
+            "tahun": "(2003\u2013 )",
+            "durasi": "60 min",
+            "genre": "Comedy, News, Talk-Show",
+            "rating": "7.4",
+            "image": "https://m.media-amazon.com/images/M/MV5BYjJiM2YzYjItOWNkMi00NTRmLTgyZmUtYzBmNWE5Mzg4MGQzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR8,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 90,
+            "judul": "Hello Ladies",
+            "tahun": "(2013\u20132014)",
+            "durasi": "29 min",
+            "genre": "Comedy",
+            "rating": "7.5",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjYxMjI3MzY3NF5BMl5BanBnXkFtZTgwMTgyNzg3MDE@._V1_UY209_CR2,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 91,
+            "judul": "Girls",
+            "tahun": "(2012\u20132017)",
+            "durasi": "28 min",
+            "genre": "Comedy, Drama",
+            "rating": "7.3",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTU1Mzk2ODEzN15BMl5BanBnXkFtZTgwNDQwMjAxMTI@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 92,
+            "judul": "The Plot Against America",
+            "tahun": "(2020)",
+            "durasi": "60 min",
+            "genre": "Drama, Thriller",
+            "rating": "7.3",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTk2NzdhMTItMGRmYS00NGQxLTlkMWQtYmI0MWNlNDJjNWMxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR1,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 93,
+            "judul": "Empire Falls",
+            "tahun": "(2005)",
+            "durasi": "197 min",
+            "genre": "Drama, Romance",
+            "rating": "7.3",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzM3Yjg5MGEtMTM0MC00MDg0LWI5NzgtODI4ZDI5ZmI5ZDI0XkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_UY209_CR1,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 94,
+            "judul": "We Are Who We Are",
+            "tahun": "(2020)",
+            "durasi": "462 min",
+            "genre": "Drama",
+            "rating": "7.3",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzg0ODdiMTItN2RiZS00ZTQyLWFhYTctYjZmM2NiY2Q1YmVjXkEyXkFqcGdeQXVyNjAwMjY1MTI@._V1_UY209_CR13,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 95,
+            "judul": "Sex and the City",
+            "tahun": "(1998\u20132004)",
+            "durasi": "30 min",
+            "genre": "Comedy, Drama, Romance",
+            "rating": "7.3",
+            "image": "https://m.media-amazon.com/images/M/MV5BNGEyNDRjM2QtY2VlYy00OWRhLWI4N2UtZTM4NDc0MGM0YzBkXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UX140_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 96,
+            "judul": "Lovecraft Country",
+            "tahun": "(2020)",
+            "durasi": "60 min",
+            "genre": "Drama, Fantasy, Horror",
+            "rating": "7.1",
+            "image": "https://m.media-amazon.com/images/M/MV5BM2ExMmZlZDQtOTJiZC00Y2UzLWIxNDYtZTdiYzAzYzQyMmQ4XkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 97,
+            "judul": "The Flight Attendant",
+            "tahun": "(2020\u2013 )",
+            "durasi": "No runtime",
+            "genre": "Comedy, Drama, Mystery",
+            "rating": "7.1",
+            "image": "https://m.media-amazon.com/images/M/MV5BN2U5Y2NiMDgtNDg4NS00ZTU2LWFlMmQtMjA5YjBkNDg4NGQ5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 98,
+            "judul": "Hung",
+            "tahun": "(2009\u20132011)",
+            "durasi": "30 min",
+            "genre": "Comedy, Drama",
+            "rating": "7.2",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTkyODEzNzAzNl5BMl5BanBnXkFtZTcwMTM3MjM2Mg@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 99,
+            "judul": "Divorce",
+            "tahun": "(2016\u20132019)",
+            "durasi": "30 min",
+            "genre": "Comedy, Drama",
+            "rating": "6.8",
+            "image": "https://m.media-amazon.com/images/M/MV5BYzM2ODVhM2MtZTA4ZS00ODVhLThjMjYtNWVkMDk4ODg0OTQ4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      },
+      {
+            "no": 100,
+            "judul": "Gunpowder",
+            "tahun": "(2017)",
+            "durasi": "59 min",
+            "genre": "Drama, History",
+            "rating": "6.6",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTc4MTI0MDI5OV5BMl5BanBnXkFtZTgwNzczMDYzNDM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+            "waktu_scrap": "2022-03-18 21:20:14"
+      }
+]
